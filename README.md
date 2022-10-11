@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ingolst
-- 👀 I’m interested in learning coding languages to assist with automation with system administration
+- 👀 I’m interested in learning coding Python to assist with automation with system administration
 - 🌱 I’m currently learning Python
 
 <!---
